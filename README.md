@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO My name is Gustavo a I am a developer student 👋
 # 💻 Tech Stack
 
 | Lenguajes de programación | Frameworks | Bases de datos | Herramientas |
